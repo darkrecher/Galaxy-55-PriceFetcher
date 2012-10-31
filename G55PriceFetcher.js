@@ -91,7 +91,7 @@ LIST_CRITERIA_STRONG_CHECK = new Array(
 LIST_CRITERIA_DEBUG = new Array(
     "q", "y", "-")
 // Nombre total de kube dans le marché, dans la version actuelle du jeu.    
-NB_KUBE_EXPECTED = 129
+NB_KUBE_EXPECTED = 130
 // Période (en nombre de kube lus) d'affichage du pourcentage de progress dans la console.
 PERIOD_NB_KUBE_LOG_PROGRESS = 5
 // Bla-bla d'en-tête, pour me faire de la pub parce que je suis trop bien comme mec.
