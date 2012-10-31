@@ -45,7 +45,7 @@ Testé sur Firefox et Chrome.
 Bon commerce !
 
 
-(Note provisoire : Alors oit j'ai rien compris à Git, soit on ne peut pas ajouter de fichiers directement en utilisant le site. Faut installer l'application cliente et tout le bazar. Ca attendra donc ce soir que je sois rentré chez moi. Super !
+(Note provisoire : Alors soit j'ai rien compris à Git, soit on ne peut pas ajouter de fichiers directement en utilisant le site. Faut installer l'application cliente et tout le bazar. Ca attendra donc ce soir que je sois rentré chez moi. Super !
 
 English
 -------
