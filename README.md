@@ -23,7 +23,7 @@ Fonctionne avec la version Alpha 5 de Galaxy 55. (http://galaxy55.com/)
 Testé sur Firefox et Chrome.
 
 
-Mode d'emploi :
+### Mode d'emploi ###
 
 
 - Cliquer sur le fichier G55PriceFetcher.js. Afficher le texte brut (bouton "Raw"). Tout sélectionner (Ctrl+A). Faire un copier (Ctrl+V).
