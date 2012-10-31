@@ -48,5 +48,5 @@ Bon commerce !
 English
 -------
 
-Coming soon.
+Coming soon...
 
