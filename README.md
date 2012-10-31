@@ -11,6 +11,7 @@ Diffusable et modifiable selon les termes de la licence GNU, ou de la licence CC
 Créé par Réchèr.
 
 Mon profil Twinoid : http://twinoid.com/user/12910
+
 Mon blog : http://recher.wordpress.com/
 
 Mon adresse bitcoin : 12wF4PWLeVAoaU1ozD1cnQprSiKr6dYW1G (Devinez quoi ? J'accepte les dons).
