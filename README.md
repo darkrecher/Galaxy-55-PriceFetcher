@@ -1,7 +1,8 @@
 Galaxy-55-PriceFetcher
 ======================
 
-**** Français ****
+Français
+--------
 
 Un morceau de javascript pour le jeux web Galaxy 55. Il permet de récupérer automatiquement toutes les valeurs de cours, achat, vente, etc du marché des cubes. Le script est à exécuter directement dans la console de votre navigateur. Il n'y a rien à installer ou à paramétrer.
 
@@ -16,7 +17,8 @@ Fonctionne avec la version Alpha 5 de Galaxy 55. (http://galaxy55.com/)
 Testé sur Firefox et Chrome.
 
 
-** Mode d'emploi **
+Mode d'emploi :
+
 
 - Cliquer sur le fichier G55PriceFetcher.js. Afficher le texte brut (bouton "Raw"). Tout sélectionner (Ctrl+A). Faire un copier (Ctrl+V).
 
@@ -37,7 +39,8 @@ Testé sur Firefox et Chrome.
 Bon commerce !
 
 
-**** English ****
+English
+-------
 
 Coming soon.
 
