@@ -1,30 +1,12 @@
-Galaxy-55-PriceFetcher
-======================
-
-Français
---------
+# Galaxy-55-PriceFetcher #
 
 Un morceau de javascript pour le jeux web Galaxy 55. Il permet de récupérer automatiquement toutes les valeurs de cours, achat, vente, etc du marché des cubes. Le script est à exécuter directement dans la console de votre navigateur. Il n'y a rien à installer ou à paramétrer.
 
-Diffusable et modifiable selon les termes de la licence GNU, ou de la licence CC-BY-SA.
+# Edit 2013-03-30 #
 
-Créé par Réchèr.
+Le jeu Galaxy 55 n'est plus disponible. Et si jamais il le redevient, le marché des cubes aura certainement changé. Ce script ne sert donc plus à rien. Je le laisse ici pour la postérité et l'esbroufe sociale. À priori, il n'y aura plus aucune modif dessus.
 
-Mon profil Twinoid : http://twinoid.com/user/12910
-
-Mon blog : http://recher.wordpress.com/
-
-Mon adresse bitcoin : 12wF4PWLeVAoaU1ozD1cnQprSiKr6dYW1G (Devinez quoi ? J'accepte les dons).
-
-Version du script : 1.1 (31/12/2012)
-
-Fonctionne avec la version Alpha 5 de Galaxy 55. (http://galaxy55.com/)
-
-Testé sur Firefox et Chrome.
-
-
-### Mode d'emploi ###
-
+# Mode d'emploi #
 
 - Cliquer sur le fichier G55PriceFetcher.js. Afficher le texte brut (bouton "Raw"). Tout sélectionner (Ctrl+A). Faire un copier (Ctrl+V).
 
@@ -44,9 +26,21 @@ Testé sur Firefox et Chrome.
 
 Bon commerce !
 
+# Credits #
 
-English
--------
+Diffusable et modifiable selon les termes de la licence GNU, ou de la licence CC-BY.
 
-Coming soon...
+Créé par Réchèr.
+
+Mon profil Twinoid : http://twinoid.com/user/12910
+
+Mon blog : http://recher.wordpress.com/
+
+Mon adresse bitcoin : 12wF4PWLeVAoaU1ozD1cnQprSiKr6dYW1G (Devinez quoi ? J'accepte les dons).
+
+Version du script : 1.1 (31/12/2012)
+
+Fonctionne avec la version Alpha 5 de Galaxy 55. (http://galaxy55.com/)
+
+Testé sur Firefox et Chrome.
 
