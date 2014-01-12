@@ -26,21 +26,22 @@ Le jeu Galaxy 55 n'est plus disponible. Et si jamais il le redevient, le marché
 
 Bon commerce !
 
-# Credits #
-
-Diffusable et modifiable selon les termes de la licence GNU, ou de la licence CC-BY.
+# Crédits #
 
 Créé par Réchèr.
 
-Mon profil Twinoid : http://twinoid.com/user/12910
+Le code et cette doc sont sous la double licence : Art Libre ou Creative Commons CC-BY (au choix).
+
+Repository : https://github.com/darkrecher/Galaxy-55-PriceFetcher
 
 Mon blog : http://recher.wordpress.com/
 
-Mon adresse bitcoin : 12wF4PWLeVAoaU1ozD1cnQprSiKr6dYW1G (Devinez quoi ? J'accepte les dons).
+Mon adresse bitcoin : 12wF4PWLeVAoaU1ozD1cnQprSiKr6dYW1G 
+
+Mon profil Twinoid : http://twinoid.com/user/12910
 
 Version du script : 1.1 (31/12/2012)
 
 Fonctionne avec la version Alpha 5 de Galaxy 55. (http://galaxy55.com/)
 
 Testé sur Firefox et Chrome.
-
